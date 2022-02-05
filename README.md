@@ -142,12 +142,12 @@
 <h4> 12.Now Based on the format type you like to pack your file. Choose anyone option and again click Drop Down Arrow.</h4>
 <img src="Img/51.png" alt="51">
 <h4> 13.If you want to pack a file or folder into (.Zip) then Replace "SHARED DRIVE NAME2" in which you want Final zipped file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final Zipped File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be zipped.</h4>
-<img src="Img/52" alt="52">
+<img src="Img/52.png" alt="52">
 <h4> 14.If you want to pack a file or folder into (.RAR) then first you have to download required setup files by using the as shown in the Image.</h4>
-<img src="Img/53" alt="53">
+<img src="Img/53.png" alt="53">
 <h4> 15.Now after that! If you want to make pack file/folder into Password protected (.RAR) file then go to "Make Password Protected RAR File:" Section and Replace "SHARED DRIVE NAME2" in which you want Final RAR file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final RARED File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be RARED. </h4>
 <p><font color="green"><i>After Running the Code! Enter Password to set it with the File!</i></font></p>
-<img src="" alt="54">
+<img src="Img/54.png" alt="54">
 <h2>〽️Variables Used</h2>
 <h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
 <h4>2.PATH: Location or Address of My Drive or Shared Drive to Download Torrent in it.</h4>
