@@ -15,13 +15,12 @@
 <h4><b>5.Added Support for Tar.gz & Tar.bz2😉</b></h4>
 <h4><b>6.Pack Whole Shared Drive at Once😍</b></h4>
 <!---Movement goes HERE--->
-<h2>🗃️OUTPUT Movement</h2> 
+<h2>🗃️Output Movement</h2> 
 <p><b>You can automatically Move the Final File or Output from:</p>
 <h4><b>1.My Drive to My Drive</b></h4>
 <h4><b>2.My Drive to Shared Drive</b></h4>
 <h4><b>3.Shared Drive to Shared Drive</b></h4>
 <h4><b>4.Shared Drive to My Drive</b></h4>
-<p "font color="green""><b><i><font color="green">You can Keep Final OUTPUT File/Folder at Same Shared Drive also! Just keep "SHARED DRIVE NAME1" and "SHARED DRIVE NAME2" same.</font></i></b></p>
 <!---END--->
 <!---How To Use? Start--->
 <!---Add SRC="IMG/+NO" otherwise useless--->
@@ -228,6 +227,7 @@ Use My Drive as a destination:<br>
 <h4>8.No risk of Data Corruption.</h4>
 <h4>9.Google will not able to Flag a copyright file if you pack it into .RAR with password.</h4>
 <h4>10.Don't forget to remember the password set by you while packing anything.</h4>
+<h4>11.You can Keep Final OUTPUT File/Folder at Same Shared Drive also! Just keep "SHARED DRIVE NAME1" and "SHARED DRIVE NAME2" same.</h4>
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive">Original code</a>.🔒</h4>
 <h4> 2.This will not cause any type of Data corruption!🔑</h4>
