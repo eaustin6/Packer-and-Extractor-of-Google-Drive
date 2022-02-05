@@ -21,7 +21,7 @@
 <h4><b>2.My Drive to Shared Drive</b></h4>
 <h4><b>3.Shared Drive to Shared Drive</b></h4>
 <h4><b>4.Shared Drive to My Drive</b></h4>
-<h4><b><i><font color="green">You can Keep Final OUTPUT File/Folder at Same Shared Drive also! Just keep "SHARED DRIVE NAME1" and "SHARED DRIVE NAME2" same.</font></i></b></h4>
+<p "font color="green""><b><i><font color="green">You can Keep Final OUTPUT File/Folder at Same Shared Drive also! Just keep "SHARED DRIVE NAME1" and "SHARED DRIVE NAME2" same.</font></i></b></p>
 <!---END--->
 <!---How To Use? Start--->
 <!---Add SRC="IMG/+NO" otherwise useless--->
