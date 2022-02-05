@@ -235,8 +235,9 @@ Use My Drive as a destination:<br>
 <h2> 🤔 Why Use This?</h2>
 <h4><b>Sometimes the Google Flag some of your copyright file and make it unusable but by packing it into .RAR or .Zip the Google will not able to read it and hence you can store it and share it without any problem of account termination also before downloading anything you can check what is inside of that package and If you use Google Collab for Long term use, then you can understand that it requires Human Interaction atleast one time per 90 Minutes! Otherwise it will cancel the task and all your Work will got failed! But this Repository comes with the code which prevent this. Yes you heard it right just click on the "Play Code Button" of "Timeout Preventer" and then don't worry about time out! Sometimes the Users found to handle Google Colab defficult so we have designed a Simple and Advanced UI for them. We update every Repository on a regular Basis and fix Problems reported to us by our Users!</b></h4>
 <h2> 📥Download</h2>
-<h4> <b>You can also Download this GitHub Repository as (.zip) file:</b></h4>
-<h4> <a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/archive/refs/heads/main.zip">Download Now</a></h4>
+<h4> You can also Download this GitHub Repository as (.zip) file:</h4>
+<h4> Available Versions for Download: </h4>
+<h4> v2.2.1:<a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/archive/refs/tags/v2.2.1.zip"> Download Now</a> (Latest)</h4>
 <h2>⛑Contact Us!</h2>
 <h4><b>Checkout our Website for more: <a href="https://www.caduceus.ml/">Open it!</a></b></h4>
 <h4><b>oin our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
