@@ -73,47 +73,47 @@
 <img src="" alt="20">
 <h3>🗂️Unzip/Unrar/Untar Files: Shared Drive to Shared Drive</h3>
 <h4> 1.First! Open the "Unzip/Unrar/Untar Files: Shared Drive to Shared Drive" section by clicking Dropdown Arrow as shown in The Image.</h4>
-<img src="Img/21" alt="21">
+<img src="Img/21.png" alt="21">
 <h4> 2.Since you are going to Extract file/folder which are located in Shared Drives! You need to Enter exact correct name of Shard Drives also. So for that run the code as shown in the Image and get the name of Shared drives and copy them without (' ')</h4>
-<img src="Img/22" alt="22">
+<img src="Img/22.png" alt="22">
 <h4> 3.Now Based on the File type you like to Extract choose anyone option and again click Drop Down Arrow.</h4>
-<img src="Img/23" alt="23">
+<img src="Img/23.png" alt="23">
 <h4> 4.If you want to extract a file which is in (.Zip) file format then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be Unzipped and Replace "FILE NAME" with name of File which needs to be Unzipped. Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</h4>
 <p> <font color="green"> <i>You can also use Same Shared Drive name at place of "SHARED DRIVE NAME1" and "SHARED DRIVE NAME2"</i></font></p>
-<img src="Img/24" alt="24">
+<img src="Img/24.png" alt="24">
 <h4> 5.If you want to extract a RAR file (without password) then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be UnRaR and Replace "FILE NAME" with name of File which needs to be Unzipped. Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</h4>
-<img src="Img/25" alt="25">
+<img src="Img/25.png" alt="25">
 <h4> 6.Or, If you want to extract the RAR file Protected by password then go to "UnRAR Password Protected File:" and Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be UnRaR and Replace "FILE NAME" with name of File which needs to be Unzipped. Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</h4>
 <p><font color="green"><i>After Running the Code! Enter Password to UnRaR</i></font></p>
-<img src="Img/26" alt="26">
+<img src="Img/26.png" alt="26">
 <h4> 7.If you want to extract the (.Tar) file then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be UnTar and Replace "FILE NAME" with name of File which needs to be Unzipped. Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</h4>
-<img src="Img/27" alt="27">
+<img src="Img/27.png" alt="27">
 <h4> 8.If you want to extract the (.Tar.gz) file then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be UnTar.gz and Replace "FILE NAME" with name of File which needs to be UnTar.gz . Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</h4>
-<img src="Img/28" alt="28">
+<img src="Img/28.png" alt="28">
 <h4> 9.And if you want to extract the (.Tar.bz2) file then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be UnTar.bz2 and Replace "FILE NAME" with name of File which needs to be UnTar.bz2 . Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</h4>
-<img src="Img/29" alt="29">
+<img src="Img/29.png" alt="29">
 <h3>📁Zip/Rar/Tar Files/Folders: Shared Drive to Shared Drive</h3>
 <h4> 10.First! Open the "Zip/Rar/Tar Files/Folders: Shared Drive to Shared Drive" section by clicking Dropdown Arrow as shown in The Image.</h4>
-<img src="Img/30" alt="30">
+<img src="Img/30.png" alt="30">
 <h4> 11.Since you are going to pack file/folder which are located in Shared Drives! You need to Enter exact correct name of Shard Drives also. So for that run the code as shown in the Image and get the name of Shared drives and copy them without (' ')</h4>
-<img src="Img/31" alt="31">
+<img src="Img/31.png" alt="31">
 <h4> 12.Now Based on the format type you like to pack your file. Choose anyone option and again click Drop Down Arrow.</h4>
-<img src="Img/32" alt="32">
+<img src="Img/32.png" alt="32">
 <h4> 13.If you want to pack a file or folder into (.Zip) then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be Zipped and Replace "SHARED DRIVE NAME2" in which you want Final zipped file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final Zipped File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be zipped.</h4>
-<img src="Img/33" alt="33">
+<img src="Img/33.png" alt="33">
 <h4> 14.If you want to pack a file or folder into (.RAR) then first you have to download required setup files by using the as shown in the Image.</h4>
-<img src="Img/34" alt="34">
+<img src="Img/34.png" alt="34">
 <h4> 15.Now after that! If you want to make pack file/folder into Password protected (.RAR) file then go to "Make Password Protected RAR File:" Section and Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be RAR and Replace "SHARED DRIVE NAME2" in which you want Final RARED file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final RAR File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be RARED.</h4>
 <p alt="info"> <font color="green"><i>After Running the Code! Enter Password to set it with the File!</i></font></p>
-<img src="Img/35" alt="35">
+<img src="Img/35.png" alt="35">
 <h4> 16.Or, if you want to pack file/folder into (.RAR) file without password then go to "Make Normal RAR File:" section and Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be RAR and Replace "SHARED DRIVE NAME2" in which you want Final RARED file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final RAR File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be RARED. </h4>
-<img src="Img/36" alt="36">
+<img src="Img/36.png" alt="36">
 <h4> 17.If you want to pack file/folder into (.Tar) file then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be TAR and Replace "SHARED DRIVE NAME2" in which you want Final TARED file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final TAR File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be TARED.</h4>
-<img src="Img/37" alt="37">
+<img src="Img/37.png" alt="37">
 <h4> 18.If you want to pack file/folder into (.Tar.gz) file then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be TAR.gz and Replace "SHARED DRIVE NAME2" in which you want Final TAR.gz file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final TAR.gz File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be TAR.gz.</h4>
-<img src="Img/38" alt="38">
+<img src="Img/38.png" alt="38">
 <h4> 19.If you want to pack file/folder into (.Tar.bz2) file then Replace "SHARED DRIVE NAME1" from the Name of Shared Drive from which the file needs to be TAR.bz2 and Replace "SHARED DRIVE NAME2" in which you want Final TAR.bz2 file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final TAR.bz2 File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be TAR.bz2.</h4>
-<img src="Img/39" alt="39">
+<img src="Img/39.png" alt="39">
 <h3>🎴My Drive to Shared Drive</h3>
   <h4>Here you are!</h4>
 <h2>〽️Variables Used</h2>
