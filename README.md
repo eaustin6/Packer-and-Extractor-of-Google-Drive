@@ -193,38 +193,52 @@
 <h4> 16.Or, if you want to pack file/folder into (.RAR) file without password then go to "Make Normal RAR File:" section and Replace "OUTPUT FILE NAME" with the name which you want of Final RAR File."SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be RARED) needs to be taken! Replace "FILE OR FOLDER NAME" with File(with Format)/Folder name which needs to be RARED/h4>
 <img src="Img/74.png" alt="74">
 <h4> 17.If you want to pack file/folder into (.Tar) file then Replace "OUTPUT FILE NAME" with the name which you want of Final TAR File."SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be TAR) needs to be taken! Replace "FILE OR FOLDER NAME" with File(with Format)/Folder name which needs to be TAR</h4>
-<img src="Img/75" alt="75">
+<img src="Img/75.png" alt="75">
 <h4> 18.If you want to pack file/folder into (.Tar.gz) file then Replace "OUTPUT FILE NAME" with the name which you want of Final TAR.gz File."SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be TAR.gz) needs to be taken! Replace "FILE OR FOLDER NAME" with File(with Format)/Folder name which needs to be TAR.gz</h4>
-<img src="Img/76" alt="76">
+<img src="Img/76.png" alt="76">
 <h4> 19.If you want to pack file/folder into (.Tar.bz2) file then Replace "OUTPUT FILE NAME" with the name which you want of Final TAR.bz2 File."SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be TAR.bz2) needs to be taken! Replace "FILE OR FOLDER NAME" with File(with Format)/Folder name which needs to be TAR.bz2</h4>
 <img src="Img/77.png" alt="77">
+<h3>🖥️Advanced Packing and Unpacking</h3>
+<h4><b>Integreated packing whole shared drive into Zip, RaR at once!</b></h4>
+<h4>To pack all data of a particular Shared Drive into a particular Format then Use:</h4>
+<p>
+~~~<br>
+/gdrive/Shared drives/SHARED DRIVE NAME1/ # As the Source <br>
+/gdrive/Shared drives/SHARED DRIVE NAME2/ #As the Destination or,<br>
+Use My Drive as a destination:<br>
+/gdrive/My Drive/ <br>
+~~~
+</p>
 <h2>〽️Variables Used</h2>
-<h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
-<h4>2.PATH: Location or Address of My Drive or Shared Drive to Download Torrent in it.</h4>
-<h4>3.SharedDrive_PATH: Path of Shared Drive to download files in it.</h4>
-<h4>4.Magnet_LINK: The link which provides source of files from where they had to be downloaded.Here it is an exceptional Variable,since User will provide this.</h4>
-<h4>5.Torrent_File: The Record of Sources from where to download files,Here it is an exceptional Variable, since User will provide this.</h4>
+<h4>1.SHARED DRIVE NAME1: Replace from the Name of Shared Drive from which the file needs to be taken.</h4>
+<h4>2.SHARED DRIVE NAME2: Replace from the Name of Shared Drive in which final output needs to be stored.</h4>
+<h4>3.OUTPUT FILE NAME: Name of the Final output file after processing it.</h4>
+<h4>4.FILE OR FOLDER NAME: The Name of File (with format) or Folder which needs to be processed.</h4>
+<h4>5.PASSWORD: The password for unpacking or packing a particular file.</h4>
 <h2>📑Packages Used</h2>
-<h4>1.BitTorrent Package</h4>
-<h4>2.LitTorrent Package</h4>
-<h4>3.Private Environment Config Files</h4>
-<h2>🎯Points to be Remembered🎯</h2>
-<h4>1.You can upload 10,000 <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive#5torrent_file-the-record-of-sources-from-where-to-download-fileshere-it-is-an-exceptional-variable-since-user-will-provide-this">(.torrent) file</a> at a time to download your files to Google Drive.</h4>
-<h4>2.You can Enter Unlimited <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/blob/main/README.MD#4magnet_link-the-link-which-provides-source-of-files-from-where-they-had-to-be-downloadedhere-it-is-an-exceptional-variablesince-user-will-provide-this">Magnet Link</a> to download files to your Google Drive.</h4>
-<h4>3.You can use Google's CPU+GPU+TPU for getting more space: Just Click on Runtime>>Change Runtime Type>>Choose GPU and then TPU for more space.</h4>
-<h4>4.By Default you are connected to Google's CPU for doing anything in Google Collaboratory.</h4>
-<h4>5.You can transfer 750GB/Day because of restriction set by Google.</h4>
-<h4>6.Once all Storage got filled! and to get it back just close that Tab in which Colab is running and open it in a new Tab.</h4>
+<h4>1.RAR Packages: For packing files.</h4>
+<h2>🎯Points to be Noted🎯</h2>
+<h4>1.Every Variable used in this NoteBook is Highlighted with "Yellow" colour.</h4>
+<h4>2.Some Scripts are added to solve Input error caused by user like not entering .zip or .tar while packing.</h4>
+<h4>3.While packing anything in (.RAR) there is no need to put .rar because package will automatically put it.</h4>
+<h4>4.If user do not provide or do a mistake in format while packing then alogorithm will try the same with "Filename" or "Filename.format"</h4>
+<h4>5.While unpacking (.RAR), User needs to enter Password after running the Code.</h4>
+<h4>6.Making password protected (.RAR), User needs to enter Password after running the Code.</h4>
+<h4>7.Time of Packing or Unpacking depends upon the size of the File or Folder.</h4>
+<h4>8.No risk of Data Corruption.</h4>
+<h4>9.Google will not able to Flag a copyright file if you pack it into .RAR with password.</h4>
+<h4>10.Don't forget to remember the password set by you while packing anything.</h4>
 <h2> 🔐 Safe or Not? ✅</h2>
-<h4> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive">Original code</a>.🔒</h4>
-<h4> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
+<h4> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive">Original code</a>.🔒</h4>
+<h4> 2.This will not cause any type of Data corruption!🔑</h4>
 <h4> 3.Do not trust any other copy of this Code.📚</h4>
 <h2> 🤔 Why Use This?</h2>
-<h4>If you use Google Collab for Long term use, then you can understand that it requires Human Interaction atleast one time per 90 Minutes! Otherwise it will cancel the task and all your Work will got failed! But this Repository comes with the code which prevent this. Yes you heard it right just click on the "Play Code Button" of "Timeout Preventer" and then don't worry about time out! Also sometimes it become defficult to upload Files directly to Shared Drives, So we have added a dedicated Shared Drive Section in the UI. We update every Repository on a regular Basis and fix Problems reported to us by our Users!</h4>
+<h4>Sometimes the Google Flag some of your copyright file and make it unusable but by packing it into .RAR or .Zip the Google will not able to read it and hence you can store it and share it without any problem of account termination also before downloading anything you can check what is inside of that package and If you use Google Collab for Long term use, then you can understand that it requires Human Interaction atleast one time per 90 Minutes! Otherwise it will cancel the task and all your Work will got failed! But this Repository comes with the code which prevent this. Yes you heard it right just click on the "Play Code Button" of "Timeout Preventer" and then don't worry about time out! Sometimes the Users found to handle Google Colab defficult so we have designed a Simple and Advanced UI for them. We update every Repository on a regular Basis and fix Problems reported to us by our Users!</h4>
 <h2> 📥Download</h2>
 <h4> You can also Download this GitHub Repository as (.zip) file:</h4>
-<h4> <a href="https://github.com/TheCaduceus/Torrent-to-GoogleDrive/archive/refs/heads/main.zip">Download Now</a></h4>
+<h4> <a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/archive/refs/heads/main.zip">Download Now</a></h4>
 <h2>⛑Contact Us!</h2>
+<h4>Checkout our Website for more: <a href="https://www.caduceus.ml/">Open it!</a></h4>
 <h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a>
 <h4>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
 <h2>❤️Credits & Thanks</h2>
