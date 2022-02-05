@@ -10,7 +10,7 @@
 <h2>🔰Features🔰</h2>
 <h4><b>1.File/Folder Zip or UnZip😊</b></h4>
 <h4><b>2.File/Folder Tar or UnTar😌</b></h4>
-<h4><b>3.File/Folder RaR to UnRaR😁</b></h4>
+<h4><b>3.File/Folder RAR to UnRAR😁</b></h4>
 <h4><b>4.Optimizer Scripts are added to fix User Mistakes😝</b></h4>
 <h4><b>5.Added Support for Tar.gz & Tar.bz2😉</b></h4>
 <h4><b>6.Pack Whole Shared Drive at Once😍</b></h4>
