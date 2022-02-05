@@ -70,7 +70,7 @@
 <h4> 20.If you want to pack file/folder into (.Tar.gz) file then Replace "OUTPUT FILE NAME" with the name you want to give file after getting Packed into .Tar.gz and Replace ""FILE OR FOLDER NAME" with the name of file(with format)/Folder which needs to be converted!</h4>
 <img src="Img/19.png" alt="19">
 <h4> 21.If you want to pack file/folder into (.Tar.bz2) file then Replace "OUTPUT FILE NAME" with the name you want to give file after getting Packed into .Tar.bz2 and Replace "FILE OR FOLDER NAME" with the name of file(with format)/Folder which needs to be converted!</h4>
-<img src="" alt="20">
+<img src="Img/20.png" alt="20">
 <h3>🗂️Unzip/Unrar/Untar Files: Shared Drive to Shared Drive</h3>
 <h4> 1.First! Open the "Unzip/Unrar/Untar Files: Shared Drive to Shared Drive" section by clicking Dropdown Arrow as shown in The Image.</h4>
 <img src="Img/21.png" alt="21">
