@@ -150,6 +150,33 @@
 <img src="Img/54.png" alt="54">
 <h4> 16.Or, if you want to pack file/folder into (.RAR) file without password then go to "Make Normal RAR File:" section and Replace "SHARED DRIVE NAME2" in which you want Final RAR file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final RARED File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be RARED.</h4>
 <img src="Img/55.png" alt="55">
+<h4> 17.If you want to pack file/folder into (.Tar) file then Replace "SHARED DRIVE NAME2" in which you want Final TARED file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final TAR File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be TARED.</h4>
+<img src="Img/56.png" alt="56">
+<h4> 18.If you want to pack file/folder into (.Tar.gz) file then Replace "SHARED DRIVE NAME2" in which you want Final TAR.gz file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final TAR.gz File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be TAR.gz.</h4>
+<img src="Img/57.png" alt="57">
+<h4> 19.If you want to pack file/folder into (.Tar.bz2) file then Replace "SHARED DRIVE NAME2" in which you want Final TAR.bz2 file to be send.Replace "OUTPUT FILE NAME" with the name which you want of Final TAR.bz2 File. Replace "FILE OR FOLDER NAME" with name of File(with format)/Folder which needs to be TAR.bz2.</h4>
+<img src="Img/58.png" alt="58">
+<h3>🗄️Unzip/Unrar/Untar Files: Shared Drive to My Drive</h3>
+<h4> 1.First! Open the "Unzip/Unrar/Untar Files: Shared Drive to My Drive" section by clicking Dropdown Arrow as shown in The Image.</h4>
+<img src="Img/59.png" alt="59">
+<h4> 2.Since you are going to Extract file/folder and sending it to Shared Drives! You need to Enter exact correct name of Shard Drives also. So for that run the code as shown in the Image and get the name of Shared drives and copy them without (' ')</h4>
+<img src="Img/60.png" alt="60">
+<h4> 3.Now Based on the File type you like to Extract choose anyone option and again click Drop Down Arrow.</h4>
+<img src="Img/61.png" alt="61">
+<h4> 4.If you want to extract a file which is in (.Zip) file format then Replace "FILE NAME" with name of File which needs to be Unzipped. Replace "SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be Extracted) needs to be taken!</h4>
+<img src="Img/62.png" alt="62">
+<h4> 5.If you want to extract a RAR file (without password) then Replace "FILE NAME" with name of File which needs to be UnRAR. Replace "SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be Extracted) needs to be taken!</h4>
+<img src="Img/63.png" alt="63">
+<h4> 6.Or, If you want to extract the RAR file Protected by password then go to "UnRAR Password Protected File:" and Replace "FILE NAME" with name of File which needs to be UnRAR. Replace "SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be Extracted) needs to be taken!</h4>
+<p alt="info"><font color="green"><i>After Running the Code! Enter Password to UnRaR</i></font></p>
+<img src="Img/64.png" alt="64">
+<h4> 7.If you want to extract the (.Tar) file then Replace "FILE NAME" with name of File which needs to be UnTar. Replace "SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be Extracted) needs to be taken!</h4>
+<img src="Img/65.png" alt="65">
+<h4> 8.If you want to extract the (.Tar.gz) file then Replace "FILE NAME" with name of File which needs to be UnTar.gz. Replace "SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be Extracted) needs to be taken!</h4>
+<img src="Img/66.png" alt="66">
+<h4> 9.And if you want to extract the (.Tar.bz2) file then Replace "FILE NAME" with name of File which needs to be UnTar.bz2. Replace "SHARED DRIVE NAME1" with the Name of Shared Drive from which file (To be Extracted) needs to be taken!</h4>
+<img src="Img/67.png" alt="67">
+<h3></h3>
 <h2>〽️Variables Used</h2>
 <h4>1.SHARED DRIVE NAME: Replace with the Shared Drive name in which file needs to be downloaded.</h4>
 <h4>2.PATH: Location or Address of My Drive or Shared Drive to Download Torrent in it.</h4>
