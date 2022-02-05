@@ -215,7 +215,8 @@ Use My Drive as a destination:<br>
 <h4><b>4.FILE OR FOLDER NAME: The Name of File (with format) or Folder which needs to be processed.</b></h4>
 <h4><b>5.PASSWORD: The password for unpacking or packing a particular file.</b></h4>
 <h2>📑Packages Used</h2>
-<h4><b>1.RAR Packages: For packing files.</b></h4>
+<h4><b>1.RAR Packages: For packing files.(Officia;)</b></h4>
+<h4><b>2.RAR Packages: For Unpacking files.(Official)</b></h4>
 <h2>🎯Points to be Noted🎯</h2>
 <h4><b>1.Every Variable used in this NoteBook is Highlighted with "Yellow" colour.</b></h4>
 <h4><b>2.Some Scripts are added to solve Input error caused by user like not entering .zip or .tar while packing.</b></h4>
