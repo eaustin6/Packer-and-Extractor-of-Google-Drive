@@ -125,7 +125,7 @@
 <h4> <b>5.If you want to extract a RAR file (without password) then Replace "FILE NAME" with name of File which needs to be UnRAR. Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</b></h4>
 <img src="Img/44.png" alt="44">
 <h4> <b>6.Or, If you want to extract the RAR file Protected by password then go to "UnRAR Password Protected File:" and Replace "FILE NAME" with name of File which needs to be UnRAR. Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</b></h4>
-<p alt="info"><font color="green">After Running the Code! Enter Password to UnRaR</font></i></p>
+<p alt="info"><font color="green"><i>After Running the Code! Enter Password to UnRaR</font></i></p>
 <img src="Img/45.png" alt="45">
 <h4> <b>7.If you want to extract the (.Tar) file then Replace "FILE NAME" with name of File which needs to be UnTar. Replace "SHARED DRIVE NAME2" with the Name of Shared Drive in to which Extracted file needs to be send!</b></h4>
 <img src="Img/46.png" alt="46">
