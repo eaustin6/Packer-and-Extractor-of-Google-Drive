@@ -30,7 +30,7 @@
 <img src="Img/1.png" alt="1">
 <h4><b> 3.Now run the Timeout preventer to prevent Google Colab from getting Time out!</b></h4>
 <img src="Img/2.png" alt="2">
-<h4><b> 4.After that! Choose any one Process you want to do based on the Movement(Higlighted in Blue) you want to do! Click the DropDown(Red Box) Arrow as shown in the Image to open a particular option.</b></h4>
+<h4><b> 4.After that! Choose any one Process you want to do based on the Movement(Higlighted in <font color="blue">Blue</font>) you want to do! Click the DropDown(<font color="red">Red</font> Box) Arrow as shown in the Image to open a particular option.</b></h4>
 <img src="Img/3.png" alt="3">
 <h3>📂Unzip/Unrar/Untar Files: My Drive to My Drive</h3>
 <h4><b> 5.First! Open the "Unzip/Unrar/Untar Files: My Drive to My Drive" section by clicking Dropdown Arrow as shown in The Image.</b></h4>
