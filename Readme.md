@@ -235,7 +235,11 @@ This Option is under development and will be released in v2.2.2! You can still u
 <h4><b> 2.This will not cause any type of Data corruption!🔑</b></h4>
 <h4><b> 3.Do not trust any other copy of this Code.📚</b></h4>
 <h2> 🤔 Why Use This?</h2>
-<h4><b>Sometimes the Google Flag some of your copyright file and make it unusable but by packing it into .RAR or .Zip the Google will not able to read it and hence you can store it and share it without any problem of account termination also before downloading anything you can check what is inside of that package and If you use Google Collab for Long term use, then you can understand that it requires Human Interaction atleast one time per 90 Minutes! Otherwise it will cancel the task and all your Work will got failed! But this Repository comes with the code which prevent this. Yes you heard it right just click on the "Play Code Button" of "Timeout Preventer" and then don't worry about time out! Sometimes the Users found to handle Google Colab defficult so we have designed a Simple and Advanced UI for them. We update every Repository on a regular Basis and fix Problems reported to us by our Users!</b></h4>
+<h4><b>1.Sometimes the Google Flag some of your copyright file and make it unusable but by packing it into .RAR or .Zip them Google will not able to read it and hence you can store it and share it without any problem of account termination.</b></h4>
+<h4><b>2.Also before downloading anything you can check what is inside of that package. You can share a particular file of the Zip directly now!</b></h4>
+<h4><b>3.And If you use Google Collab for Long term use, then you can understand that it requires Human Interaction atleast one time per 90 Minutes! Otherwise it will cancel the task and all your Work will got failed! But this Repository comes with the code which prevent this.</b></h4>
+<h4><b>4.Sometimes the Users found to handle Google Colab defficult so we have designed a Simple and Advanced UI for them.</b></h4>
+<h4><b>5.We update every Repository on a regular Basis and fix Problems reported to us by our Users!</b></h4>
 <h2> 📥Download</h2>
 <h4> You can also Download this GitHub Repository as (.zip) file:</h4>
 <h4> Available Versions for Download: </h4>
