@@ -16,7 +16,7 @@
 <h4><b>6.Pack Whole Shared Drive at Once😍</b></h4>
 <!---Movement goes HERE--->
 <h2>🗃️Output Movement</h2> 
-<p><b>You can automatically Move the Final File or Output from:</p>
+<p><b>You can automatically Move the Final File or Output from:</b></p>
 <h4><b>1.My Drive to My Drive</b></h4>
 <h4><b>2.My Drive to Shared Drive</b></h4>
 <h4><b>3.Shared Drive to Shared Drive</b></h4>
