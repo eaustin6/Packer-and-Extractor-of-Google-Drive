@@ -245,9 +245,9 @@ This Option is under development and will be released in v2.2.2! You can still u
 <h4><b>4.Sometimes the Users found to handle Google Colab defficult so we have designed a Simple and Advanced UI for them.</b></h4>
 <h4><b>5.We update every Repository on a regular Basis and fix Problems reported to us by our Users!</b></h4>
 <h2> 📥Download</h2>
-<h4> You can also Download this GitHub Repository as (.zip) file:</h4>
-<h4> Available Versions for Download: </h4>
-<h4> v2.2.1:<a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/archive/refs/tags/v2.2.1.zip"> Download Now</a> (Latest)</h4>
+<h4> <b>You can also Download this GitHub Repository as (.zip) file:</b></h4>
+<h4> <b>Available Versions for Download:</b> </h4>
+<h4><b> v2.2.1:<a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/archive/refs/tags/v2.2.1.zip"> Download Now</a> (Latest)</b></h4>
 <h2>⛑Contact Us!</h2>
 <h4><b>Checkout our Website for more: <a href="https://www.caduceus.ml/">Open it!</a></b></h4>
 <h4><b>oin our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
