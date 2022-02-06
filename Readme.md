@@ -59,7 +59,7 @@
 <img src="Img/14.png" alt="14">
 <h4><b> 16.If you want to pack a file or folder into (.RAR) then first you have to download required setup files by using the as shown in the Image.</b></h4>
 <img src="Img/15.png" alt="15">
-<h4><b> 17.Now after that! If you want to make pack file/folder into Password protected (.RAR) file then go to "Make Password Protected RAR File:" Section and Replace "OUTPUT FILE NAME" with the name you want to give file after getting Packed into .RAR and Replace "FILE OR FOLDER NAME" with the name of file (with format)/folder which needs to be converted! Then run the Code and provide Password in the INPUT FIELD.</h4>
+<h4><b> 17.Now after that! If you want to make pack file/folder into Password protected (.RAR) file then go to "Make Password Protected RAR File:" Section and Replace "OUTPUT FILE NAME" with the name you want to give file after getting Packed into .RAR and Replace "FILE OR FOLDER NAME" with the name of file (with format)/folder which needs to be converted! Then run the Code and provide Password in the INPUT FIELD.</b></h4>
 <p><font color="green"><i>After Running the Code! Enter Password to set it with the File!</i></font></p>
 <img src="Img/16.png" alt="16">
 <h4> <b>18.Or, if you want to pack file/folder into (.RAR) file without password then go to "Make Normal RAR File:" section and Replace "OUTPUT FILE NAME" with the name you want to give file after getting Packed into .RAR and Replace "FILE OR FOLDER NAME" with the name of file(with format)/Folder which needs to be converted!</b></h4>
