@@ -232,7 +232,7 @@ This Option is under development and will be released in v2.2.2! You can still u
 <h4><b>11.You can Keep Final OUTPUT File/Folder at Same Shared Drive also! Just keep "SHARED DRIVE NAME1" and "SHARED DRIVE NAME2" same.</b></h4>
 <h2>🗳️Optimization</h2>
 <h4><b>1.This Google Colab NoteBook (Jupyter's NoteBook) comes with some optimizations which are added to fix some common mistakes caused by Users during INPUT. If a user failed to provide the format of a particular file while packing or unpacking it! Then the System will automatically search or  add the Format to ignore the Error.</b></h4>
-<h4><b>2.If User want to Extract a File into a Folder made by user itself then the System will not make the NEW FOLDER (If file is too small otherwise it will).But in opposite condition! The System will make the Folder of File's name.
+<h4><b>2.If User want to Extract a File into a Folder made by user itself then the System will not make the NEW FOLDER (If file is too small otherwise it will).But in opposite condition! The System will make the Folder of File's name.</b></h4>
 <h4><b>3.Using GPU as a RUNTIME TYPE can increase the Speed of Process.</b></h4>
 <h2> 🔐 Safe or Not? ✅</h2>
 <h4><b> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive">Original code</a>.🔒</b></h4>
