@@ -206,7 +206,7 @@
 /gdrive/Shared drives/SHARED DRIVE NAME2/ #As the Destination <br>
 Use My Drive as a destination:<br>
 /gdrive/My Drive/ <br>
-This Option is under development and will be released in v2.2.2! You can still use it.
+This Option is under development and will be released in v2.2.2! You can still use it.<br>
 ~~~
 </b></p>
 <h2>〽️Variables Used</h2>
